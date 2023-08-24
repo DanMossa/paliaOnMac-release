@@ -18,6 +18,7 @@
 * Ability to install missing Visual Studio C++ Runtimes
 
 ### Requirments
-* Whisky should already be setup with a Bottle
+* You should be on MacOS Sonoma.
+* Whisky should already be setup with a Bottle. - https://github.com/Whisky-App/Whisky/wiki/A-Hitchhiker's-Guide-to-Whisky
   
 TODO: More
