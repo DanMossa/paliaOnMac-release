@@ -1,6 +1,6 @@
 # Readme
 
-## You can install our launcher by donwloading the latest version here: https://github.com/DanMossa/paliaOnMac-release/releases
+## You can install our launcher by downloading the latest version here: https://github.com/DanMossa/paliaOnMac-release/releases
 
 ### Screenshots
 ![image](https://github.com/DanMossa/paliaOnMac-release/assets/10294777/f08af643-701c-47c4-9a57-a7743f0c6676)
