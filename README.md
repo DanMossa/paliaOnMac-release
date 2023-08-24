@@ -16,6 +16,7 @@
 * Verifies System Requirements
 * Updates Palia to latest version
 * Ability to install missing Visual Studio C++ Runtimes
+* Parially Automated setup of Whisky
 
 ### Requirments
 * **You should be on MacOS Sonoma**.
