@@ -25,6 +25,5 @@
   4. After signing in, you'll see a main screen that's a Guide for Public Betas. Click on macOS.
   5. Read through Apple's instructions carefully, and then using the link in the "Get Started" section, select enroll your iOS device.
   6. If your Mac is running ‌**macOS Ventura‌ 13.4 or later**, go to **System Settings -> General -> Software Update and click the Info button next to "Beta updates."** Then choose the macOS beta you’d like to install. If your Mac is running ‌**macOS Ventura‌ 13.3 or earlier**, download Apple's macOS Beta Access Utility (https://beta.apple.com/download/1016471) and Run.
-* **Whisky should already be setup with a Bottle.** - [Whisky guide](https://github.com/Whisky-App/Whisky/wiki/A-Hitchhiker's-Guide-to-Whisky)
   
 TODO: More
