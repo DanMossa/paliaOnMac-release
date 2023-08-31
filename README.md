@@ -11,7 +11,7 @@
 * Verified and Notarized for MacOS
 * Install Palia
 * Uninstall Palia
-* Run Palia (No need to open Whisky)
+* Run Palia
 * Verifies hashes of downloaded files
 * Verifies System Requirements
 * Updates Palia to latest version
