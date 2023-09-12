@@ -2,7 +2,7 @@
 
 Easily run the Windows-exclusive game, Palia, on MacOS with our launcher.
 
-![Palia on MacOS](https://github.com/DanMossa/paliaOnMac-release/assets/10294777/b4152f58-6bee-4de9-b3d9-f1f631abcbf6)
+![Palia on MacOS](https://github.com/DanMossa/paliaOnMac-release/assets/10294777/80590302-01e9-458b-8327-a990f053b4b8)
 
 ## Installation
 
