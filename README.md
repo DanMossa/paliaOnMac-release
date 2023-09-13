@@ -17,6 +17,7 @@ Enjoy playing Palia on MacOS!
 
 - ✅ Verified and Notarized for MacOS
 - 🎮 Install, run, and update Palia with ease
+- 😎 Ability to continue using DirecttX 11
 - 🗑️ Uninstall Palia
 - 🔒 Verifies hashes of downloaded files for security
 - 🔍 Verifies system requirements to ensure smooth gameplay
