@@ -35,14 +35,10 @@ Enjoy playing Palia on MacOS!
   - Alternatively, download and open the launcher. If your Mac is not supported, it will display a "not supported" message.
 
 - **Operating System**: MacOS Sonoma. Here's how you can get it:
-  1. Visit the Apple Beta Software Program: [Link](https://beta.apple.com/sp/betaprogram/)
-  2. Click on the **Sign up** button and enter your Apple ID credentials or sign in if you've already registered.
-  3. Agree to the Apple Beta Software Program terms and conditions if prompted.
-  4. After logging in, select macOS from the main screen under the "Guide for Public Betas".
-  5. Carefully follow Apple's provided instructions.
-  6. In the "Get Started" section, choose to enroll your MacOS device.
-  7. If your Mac runs on **macOS Ventura‌ 13.4 or later**, navigate to **System Settings -> General -> Software Update** and click the info button next to "Beta updates". Choose the MacOS beta you want to install. For Macs running **macOS Ventura‌ 13.3 or earlier**, download and run Apple's macOS Beta Access Utility from [this link](https://beta.apple.com/download/1016471).
-
+  - From the Apple menu  in the corner of your screen, choose System Settings. Click General in the sidebar, then click Software Update on the right.
+  - Or in earlier versions of macOS, choose Apple menu  > System Preferences, then click Software Update.
+  - Or use Spotlight  in your menu bar to search for “Software Update,” then open it from the search results. 
+ 
 ## Troubleshooting
 
 - **Error 424 upon login**: This error indicates that your game version is outdated.
