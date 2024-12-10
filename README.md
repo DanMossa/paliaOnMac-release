@@ -35,7 +35,7 @@ Enjoy playing Palia on MacOS!
     3. Look for the "Chip" or "Processor" entry. If it says "Apple" followed by a series of letters and numbers (e.g., "Apple M1"), you have an ARM-based Mac.
   - Alternatively, download and open the launcher. If your Mac is not supported, it will display a "not supported" message.
 
-- **Operating System**: MacOS Sonoma. Here's how you can get it:
+- **Operating System**: MacOS Sonoma or newer. Here's how you can get it:
   - From the Apple menu  in the corner of your screen, choose System Settings. Click General in the sidebar, then click Software Update on the right.
   - Or in earlier versions of macOS, choose Apple menu  > System Preferences, then click Software Update.
   - Or use Spotlight  in your menu bar to search for “Software Update,” then open it from the search results. 
