@@ -37,7 +37,7 @@ Enjoy playing Palia on MacOS!
 
 - **Operating System**: MacOS Sonoma or newer. Here's how you can get it:
   - From the Apple menu  in the corner of your screen, choose System Settings. Click General in the sidebar, then click Software Update on the right.
-  - Or in earlier versions of macOS, choose Apple menu  > System Preferences, then click Software Update.
+  - Or in earlier versions of macOS, choose Apple menu > System Preferences, then click Software Update.
   - Or use Spotlight  in your menu bar to search for “Software Update,” then open it from the search results. 
  
 ## Troubleshooting
